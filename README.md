@@ -5,7 +5,7 @@ boostcourse 모두를 위한 파이썬(PY4E) 강의 듣고 복기
 
 CHAP1. 소개<BR>
 CHAP2. 변수,표현식 및 코드<br>
-CHAP3. 조건부 실행
+CHAP3. 조건부 실행  
 CHAP4. 함수  
 CHAP5. 루프와 반복문  
 CHAP6. 문자열   
