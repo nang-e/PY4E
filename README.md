@@ -1,7 +1,8 @@
 # PY4E
 
-파이썬 복습 <br>
-boostcourse 모두를 위한 파이썬(PY4E) 강의 듣고 복기  
+## 파이썬 복습 <br>
+## boostcourse 모두를 위한 파이썬(PY4E) 강의 듣고 복기  
+** https://www.boostcourse.org/cs122/joinLectures/284901 **
 
 CHAP1. 소개<BR>
 CHAP2. 변수,표현식 및 코드<br>
